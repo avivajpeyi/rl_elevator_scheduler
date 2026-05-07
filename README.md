@@ -13,6 +13,9 @@ This project uses the upstream
 repo only as conceptual reference. It does not depend on TensorFlow, TF-Agents,
 or the original upstream code.
 
+![](https://raw.githubusercontent.com/avivajpeyi/rl_elevator_scheduler/refs/heads/main/plots/dqn_training.png)
+![](https://raw.githubusercontent.com/avivajpeyi/rl_elevator_scheduler/refs/heads/main/plots/compare_simple.png)
+
 ## Setup
 
 Use `uv` to create the environment and install dependencies:
