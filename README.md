@@ -8,6 +8,8 @@ A minimal standalone elevator scheduling example with:
 - Shared evaluation metrics and comparison plots.
 - Pytest coverage, including tests that render plot PNGs.
 
+![Elevator traffic simulation](elevator_simulation.gif)
+
 This project uses the upstream
 [Veluga/elevator-scheduling](https://github.com/Veluga/elevator-scheduling)
 repo only as conceptual reference. It does not depend on TensorFlow, TF-Agents,

@@ -6,3 +6,6 @@ __pycache__/
 .mypy_cache/
 plots/
 *.egg-info/
+
+*.mp4
+*.DS_Store
